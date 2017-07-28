@@ -1,0 +1,14 @@
+uuid: c45ffb45-f5f5-402b-8be5-89832acb9af6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - rachel@pantheon.io
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

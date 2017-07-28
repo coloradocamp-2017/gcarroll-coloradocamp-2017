@@ -1,0 +1,13 @@
+uuid: 78f7cc1d-8122-4c9b-bc8e-7f6cdb3d4f00
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AeW1SEDgb1OTQACAWGhzvMknMYAJlcZu0jljfeU3oso
+name: Article
+type: article
+description: 'Use <em>articles</em> for time-sensitive content like news, press releases or blog posts.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
